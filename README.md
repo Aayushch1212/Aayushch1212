@@ -1,55 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
-</div>
-
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aayush+Choudhary;ML+Engineer+%26+Researcher;Software+Developer" alt="Typing SVG" />
-  </h1>
-  <p><em>B.Tech ECE · IIIT Delhi &nbsp;|&nbsp; Research Assistant · IIT Delhi</em></p>
-
-  <p>
-    <a href="mailto:aayushch1212@gmail.com"><img src="https://img.shields.io/badge/Gmail-aayushch1212-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Aayush_Choudhary-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-    <a href="https://github.com/Aayushch1212"><img src="https://img.shields.io/badge/GitHub-Aayushch1212-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-7C3AED?style=flat&logo=firefox&logoColor=white"/></a>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=Aayushch1212&color=7C3AED&style=flat&label=Profile+Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Aayush%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=ML%20Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Software%20Developer&descAlignY=85&descSize=14&descColor=c4b5fd" width="100%"/>
 </div>
 
 <br/>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/aayushch1212%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aayushch1212@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-choudhary-6a283b245/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-aayushiiitd.netlify.app-7C3AED?style=flat&logo=netlify&logoColor=white)](https://aayushiiitd.netlify.app/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Aayushch1212-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aayushch1212)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aayushch1212&color=7C3AED&style=flat&label=Profile+Views)
+
+</div>
 
 ---
 
 <table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="52%">
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm an ML engineer and researcher passionate about building systems that are both **intelligent and production-ready** — from multilingual OCR pipelines serving millions of documents to multi-agent AI frameworks operating at scale.
+ML engineer and researcher who builds systems that are both **intelligent and production-ready** — from 22-language OCR pipelines serving millions of documents, to multi-agent AI frameworks, to full-stack web platforms.
 
-Currently contributing to **Lipikar**, a 22-language OCR platform at IIT Delhi's Vision & Healthcare Lab, actively used by **Tata 1mg** and **Rekhta.org**.
+Currently at **IIT Delhi's Vision & Healthcare Lab**, contributing to **Lipikar** — an OCR platform actively used by **Tata 1mg** and **Rekhta.org**.
 
 ```yaml
-name:      Aayush Choudhary
-role:      ML Engineer & Research Assistant
-based_in:  Delhi, India
-focus:
+name:       Aayush Choudhary
+degree:     B.Tech ECE · IIIT Delhi · 2025
+current:    RA @ IIT Delhi (Vision & Healthcare Lab)
+interests:
   - Machine Learning & Generative AI
+  - NLP · Computer Vision · OCR
   - Scalable Backend Systems
-  - NLP & Computer Vision
-open_to:   Research Collaborations & SDE Roles
+open_to:    Research Roles · SDE Positions
 ```
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="48%">
 
-## GitHub Stats
+<br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Aayushch1212&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayushch1212&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github&card_width=400)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayushch1212&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideNums=e2e8f0&sideLabels=94a3b8)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushch1212&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&card_width=400)
 
 </td>
 </tr>
@@ -57,100 +55,102 @@ open_to:   Research Collaborations & SDE Roles
 
 ---
 
-## Experience
+## 💼 Experience
 
-<details open>
-<summary><b>🔬 Research Assistant — Vision & Healthcare Lab, IIT Delhi</b> &nbsp;<code>Feb 2026 – Present</code></summary>
-<br/>
+<table width="100%">
+<tr>
+<td width="3%" valign="top" align="center">🔬</td>
+<td>
 
-> Under **Prof. Chetan Arora** — Working on **Lipikar**, a multilingual OCR platform supporting 22 languages, actively deployed by **Tata 1mg** and **Rekhta.org** for document processing automation.
+**Research Assistant — Vision & Healthcare Lab, IIT Delhi** &nbsp; `Feb 2026 – Present`
 
-`PyTorch` &nbsp; `Triton Inference Server` &nbsp; `Computer Vision` &nbsp; `OCR`
+*Under Prof. Chetan Arora*
 
-</details>
+Scaling **[Lipikar](https://lipikar.cse.iitd.ac.in/)**, a multilingual OCR platform supporting **22 languages**, used in production by **Tata 1mg** and **Rekhta.org** for automated document processing.
 
-<br/>
+`PyTorch` `Triton Inference Server` `Computer Vision` `OCR Pipelines`
 
-<details open>
-<summary><b>💼 Software Developer — Vidysea Education</b> &nbsp;<code>May 2025 – Sep 2025</code></summary>
-<br/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="3%" valign="top" align="center">💻</td>
+<td>
 
-> Built and optimized backend services and REST APIs, improving server-side rendering and database query efficiency to reduce page load times and enhance platform scalability.
+**Software Developer — [Vidysea Education](https://www.vidysea.com/)** &nbsp; `May 2025 – Sep 2025`
 
-`Next.js` &nbsp; `React` &nbsp; `AWS` &nbsp; `PostgreSQL` &nbsp; `JavaScript`
+Built and optimized backend services and REST APIs; improved server-side rendering and DB query efficiency to reduce page load times across the platform.
 
-</details>
+`Next.js` `React` `AWS` `PostgreSQL` `JavaScript`
 
-<br/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="3%" valign="top" align="center">🧬</td>
+<td>
 
-<details open>
-<summary><b>🧬 Undergraduate Research Intern — Genomics Research Group, IIIT Delhi</b> &nbsp;<code>Jan – May 2025</code></summary>
-<br/>
+**Undergraduate Research Intern — Genomics Research Group, IIIT Delhi** &nbsp; `Jan – May 2025`
 
-> Investigated Kalman Filters as energy-efficient alternatives to transformer attention, designing reasoning pipelines that achieved a **35% reduction in compute overhead** without accuracy degradation.
+Investigated Kalman Filters as energy-efficient alternatives to transformer attention for sequence modeling. Designed NLP reasoning pipelines achieving a **35% reduction in compute overhead** with no accuracy loss.
 
-`Python` &nbsp; `PyTorch` &nbsp; `Kalman Filters` &nbsp; `NLP`
+`Python` `PyTorch` `Kalman Filters` `NLP` `Generative AI`
 
-</details>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="3%" valign="top" align="center">🛡️</td>
+<td>
 
-<br/>
+**Software Developer — Heydo Tech** &nbsp; `May – Jun 2023`
 
-<details open>
-<summary><b>🛡️ Software Developer — Heydo Tech</b> &nbsp;<code>May – Jun 2023</code></summary>
-<br/>
+Built a geofenced facial-recognition attendance system with time-bound authentication, reducing fraudulent check-ins by **90%**.
 
-> Engineered a geofenced facial-recognition attendance system with time-bound authentication, resulting in a **90% reduction in fraudulent activity**.
+`Python` `OpenCV` `GeoJSON`
 
-`Python` &nbsp; `OpenCV` &nbsp; `GeoJSON`
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## Projects
+## 🏗️ Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Operations Assistant
-*Multi-agent API Automation System*
+### 🤖 [AI Operations Assistant](https://github.com/Aayushch1212/ASSIGNMENT_AAYUSH)
+*CrewAI · Groq LLM · Streamlit · GitHub & OpenWeather APIs*
 
-A CrewAI-powered assistant following a **Planner → Executor → Verifier** architecture. Translates natural language into real API calls (GitHub, OpenWeather) and returns clean structured JSON via Streamlit.
-
-`CrewAI` `Groq LLM` `Streamlit` `GitHub API`
+Multi-agent system using a **Planner → Executor → Verifier** architecture. Processes natural language queries, calls real-world APIs, and returns structured JSON — entirely via Streamlit.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Fraud Detection System
-*Real-time ML Pipeline*
+### 🔍 [Fraud Detection System](https://github.com/Aayushch1212/Fraud-detection-MLOPS)
+*XGBoost · PyTorch · Streamlit · Azure*
 
-End-to-end fraud detection with advanced feature engineering, streaming-based real-time monitoring, and a live dashboard deployed on Azure.
-
-`XGBoost` `PyTorch` `Streamlit` `Azure`
+End-to-end ML pipeline with streaming-based real-time monitoring and a live dashboard deployed on Azure.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦟 Disease Prediction Model
-*Vector-Borne Disease Detection*
+### 🦟 [Vector-Borne Disease Predictor](https://colab.research.google.com/drive/1HI9-xiTR4SD5wf1wDtyFbFhuCmaZBYPY)
+*Scikit-Learn · NumPy · Matplotlib*
 
-Trained on **50,000+ records** across Logistic Regression, Random Forest & SVC — achieving **90% accuracy** and **ROC-AUC of 0.92**.
-
-`Python` `Scikit-Learn` `NumPy` `Matplotlib`
+Trained on **50,000+ records** — **90% accuracy**, precision 88%, recall 85%, **ROC-AUC 0.92** using Logistic Regression, Random Forest & SVC.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏏 IPL Score Predictor
-*Sports Analytics & Regression*
+### 🏏 [IPL Score Predictor](https://github.com/Aayushch1212/mlproject)
+*XGBoost · Pandas · K-Means*
 
-Curated and processed 964 IPL match records; XGBoost model achieved **R² = 94.03%** with K-Means clustering for trend analysis.
-
-`XGBoost` `Pandas` `NumPy` `K-Means`
+Processed 964 IPL match records with full feature engineering; XGBoost achieved **R² = 94.03%** with cross-validation and trend clustering.
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ Curated and processed 964 IPL match records; XGBoost model achieved **R² = 94.0
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -177,6 +177,7 @@ Curated and processed 964 IPL match records; XGBoost model achieved **R² = 94.0
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Web & Backend**
 
@@ -195,34 +196,40 @@ Curated and processed 964 IPL match records; XGBoost model achieved **R² = 94.0
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![gem5](https://img.shields.io/badge/gem5-333333?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%">
+<br/>
 
-**🥈 2nd Place**
-Machine Learning Challenge
-**Techkriti '25 · IIT Kanpur**
+🥈 &nbsp; **2nd Place**
 
-Federated learning for healthcare data aggregation — hyperparameter tuning, model evaluation, and deployment pipelines.
+**ML Challenge · Techkriti '25**
+IIT Kanpur
 
-**Prize: ₹2,00,000**
+Federated learning for healthcare data aggregation — model evaluation, hyperparameter tuning & deployment.
 
+**🏅 Prize: ₹2,00,000**
+
+<br/>
 </td>
 <td align="center" width="50%">
+<br/>
 
-**🎯 Finalist**
-NatWest Datathon
-**Hack Bake Off**
+🎯 &nbsp; **Finalist**
 
-Built an LLM-powered IDE plugin for intelligent code assistance. Presented to NatWest executives and incorporated live optimization feedback.
+**NatWest Datathon · Hack Bake Off**
 
+LLM-powered IDE plugin for intelligent code assistance — presented directly to NatWest executives.
+
+<br/>
 </td>
 </tr>
 </table>
@@ -230,8 +237,10 @@ Built an LLM-powered IDE plugin for intelligent code assistance. Presented to Na
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushch1212&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=EC4899&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushch1212&bg_color=0d0d1a&color=a78bfa&line=7C3AED&point=ec4899&area=true&hide_border=true&radius=8" width="95%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
